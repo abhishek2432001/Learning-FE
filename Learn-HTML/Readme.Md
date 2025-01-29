@@ -42,6 +42,13 @@
         -`<strong>`
         -`<code>`
 
+-**Block element**
+    - It covers entire line.
+    - div , p tags are example
+- **Inline elements**
+    - It doesn't cover whole line.
+    
+
 
 
 
