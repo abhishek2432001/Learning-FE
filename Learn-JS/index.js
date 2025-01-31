@@ -68,3 +68,5 @@ xyz() //Not defined error since it's not a function in global scope
 //Arrow function - 
 
 
+}
+
