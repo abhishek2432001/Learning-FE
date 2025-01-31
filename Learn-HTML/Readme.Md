@@ -47,6 +47,9 @@
     - div , p tags are example
 - **Inline elements**
     - It doesn't cover whole line.
+
+- **Forms**
+    - Label for attribute and input id should be same
     
 
 
