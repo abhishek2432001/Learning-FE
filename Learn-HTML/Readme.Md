@@ -50,6 +50,13 @@
 
 - **Forms**
     - Label for attribute and input id should be same
+    -Form elements
+        - input
+        - label
+        - select
+        - option
+        - button
+
     
 
 
